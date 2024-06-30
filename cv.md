@@ -21,7 +21,6 @@ function multiply(a, b){
 ```
 ***
 # Education:
-* Courses:
 1. HTML Academy
 2. openedu.ru
 3. others
